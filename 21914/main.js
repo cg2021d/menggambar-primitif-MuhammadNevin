@@ -23,7 +23,6 @@ function main(){
         // -0.5, -0.5,  //titik C
         -0.5, 0.5,  //titik D
         0.5, 0.5,    //titik A
-
     ];
 
     var positionBuffer = gl.createBuffer();
