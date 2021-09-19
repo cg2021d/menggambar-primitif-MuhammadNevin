@@ -34,6 +34,7 @@ function main(){
         // O
         0.4, -0.3, 0.4, -0.9, 0.4, -0.9, 0.85, -0.9, 0.85, -0.9, 0.85, -0.3, 0.85, -0.3, 0.4, -0.3
     ];
+    
 
     var positionBuffer = gl.createBuffer();
     gl.bindBuffer(gl.ARRAY_BUFFER, positionBuffer);
